@@ -1,0 +1,7 @@
+{
+  "name": "AgriVision AI - Farm Intelligence Platform",
+  "description": "A comprehensive agricultural decision-support dashboard for plot selection, soil prediction, crop recommendations, and profit estimation using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
